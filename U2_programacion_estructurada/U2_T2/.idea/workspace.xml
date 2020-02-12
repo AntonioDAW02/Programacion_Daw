@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2156294e-81a5-4b54-971a-5c90b9be03ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Clase_Ej5_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios Entregables 1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios Entregables 1/ej1.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios Entregables 1/ej2.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios Entregables 1/ej3.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ejercicios Entregables 1/ej4.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U2_T1/Clase_Ej1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../U2_T1/Clase_Ej1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../U2_T1/Clase_Ej4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../U2_T1/Clase_Ej4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejemplo_matriz.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Ej_Algoritmo.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Ej_Potencia.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Ejercicios Arrays/ejemplo2.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Ejercicios Arrays/ejemplo3.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Ejercicios Arrays/ejemplo_mayor.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Ejercicios Arrays/ejemplo_sencillo.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Ejercicios Funciones/ejercicio1.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Tarea 11/ejercicio11.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Tarea 11/ejercicio11002.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Tarea 12/ejercicio12.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Tarea 12/ejercicio12002.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Tarea 12/ejercicio12_3(2).psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Tarea 13/ejercicio13.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Tarea 13/ejercicio13002.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/Tarea 13/ejercicio13003.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejemplo.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejemplo_matriz_sucursales.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejemplo_subcadena.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio3.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio4.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio4001.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio4002.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio4003.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio4004.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio4005.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio4006.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio5.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio5003.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio5004.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio6.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio6002.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio6003.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio6004.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio7.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio7002.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio7003.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio8.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio8002.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio8003.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio8004.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio8005.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio8006.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio8007.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicio8008.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicioBucle.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicioBucle2.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/ejercicioBucle3.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/factorial.psc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ejercicios pseint/ejercicios pseint/multiplo.psc" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Sh8EgU4qtd1W9Yixj3VDEYLUuY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Clase_Ej5">
+    <configuration name="Clase_Ej4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Clase_Ej4" />
+      <module name="U1_T2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Clase_Ej5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Clase_Ej5" />
+      <module name="U1_T2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="U1_T2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Clase_Ej4" />
+      <item itemvalue="Application.Clase_Ej5" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Clase_Ej5" />
+        <item itemvalue="Application.Clase_Ej4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2156294e-81a5-4b54-971a-5c90b9be03ad" name="Default Changelist" comment="" />
+      <created>1572004356160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572004356160</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
