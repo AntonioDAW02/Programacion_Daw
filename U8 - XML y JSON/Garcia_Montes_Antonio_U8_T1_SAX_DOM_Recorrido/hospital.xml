@@ -1,0 +1,29 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hospital>
+    <medico id="1">
+        <nombre></nombre>
+        <apellidos></apellidos>
+        <edad></edad>
+    </medico>
+    <medico id="2">
+        <nombre></nombre>
+        <apellidos></apellidos>
+        <edad></edad>
+    </medico>
+    <medico id="3">
+        <nombre></nombre>
+        <apellidos></apellidos>
+        <edad></edad>
+    </medico>
+    <medico id="4">
+        <nombre></nombre>
+        <apellidos></apellidos>
+        <edad></edad>
+    </medico>
+    <medico id="5">
+        <nombre></nombre>
+        <apellidos></apellidos>
+        <edad></edad>
+    </medico>
+</hospital>
