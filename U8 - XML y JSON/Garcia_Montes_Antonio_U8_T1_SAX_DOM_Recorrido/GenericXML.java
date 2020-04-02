@@ -4,7 +4,7 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
-//Hereda de la clase que tiene ya implementaciones por defecto de todos los interfaces
+//Hereda de la clase que tiene ya implementaciones por defecto de todos los interfaces.
 public class GenericXML extends DefaultHandler {
 
     public GenericXML(){super();}
@@ -13,14 +13,14 @@ public class GenericXML extends DefaultHandler {
     @Override
     public void startDocument() throws SAXException {
         super.startDocument();
-        System.out.println("Comienzo del parseado del documento hospital.xml.xml");
+        System.out.println("Comienzo del parseado del documento hospital.xml");
     }
 
     //Handler para el evento fin de documento.
     @Override
     public void endDocument() throws SAXException {
         super.endDocument();
-        System.out.println("Fin del parseado del documento hospital.xml.xml");
+        System.out.println("\nFin del parseado del documento hospital.xml");
     }
 
     //Handler para el evento etiqueta de apertura.

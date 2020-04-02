@@ -81,8 +81,8 @@ public class RecorridoDOM {
             System.out.println("Información de los Nodos:");
 
             for (int i = 0; i < lista.getLength(); i++) {
-                System.out.println("Nodo" + i + "Nombre" + lista.item(i).getNodeName());
-                System.out.println("Tipo de Nodo" + lista.item(i).getNodeType());
+                System.out.println("Nodo: " + i + " - Nombre: " + lista.item(i).getNodeName());
+                System.out.println("Tipo de Nodo: " + lista.item(i).getNodeType());
                 if (lista.item(i).getNodeType() == Node.ELEMENT_NODE) {
                     System.out.println("Contiene: " + lista.item(i).getTextContent());
                 }
@@ -100,21 +100,26 @@ public class RecorridoDOM {
             DocumentBuilder db = dbf.newDocumentBuilder();
             Document doc1 = db.parse(new File("hospital.xml"));
 
+            //Creamos una lista de nodos con nombre de etiqueta pasado por parámetro.
             NodeList lista = doc1.getElementsByTagName(el.getTagName());
 
+            //Comprobamos si existe.
             if (lista.getLength() == 0) {
                 System.out.println("No existe ninguna etiqueta con ese nombre");
             }else {
+                //Recorremos la lista.
                 for (int i = 0; i < lista.getLength(); i++) {
                     Node nodo = lista.item(i);
 
                     Element eNode = (Element) lista.item(i);
                     System.out.println("Nombre: " + eNode.getTagName() + "Id: " + eNode.getAttribute("id"));
-
+                    //Comprobamos si tienen etiquetas hijas.
                     if (nodo.hasChildNodes()) {
                         System.out.println("Etiquetas hijas: ");
+                        //Creamos una lista de nodos para las etiquetas hijas.
                         NodeList lista2 = nodo.getChildNodes();
 
+                        //Recorremos la lista de nodos hijos y mostramos su contenido.
                         for (int j = 0; j < lista2.getLength(); j++) {
                             if (lista2.item(j).getNodeType() == Node.ELEMENT_NODE){
                                 Element eNodeHijo = (Element) lista2.item(j);
