@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<hospital>
+    <medico id="1">
+        <nombre>Pedro</nombre>
+        <apellidos>Gonzalez</apellidos>
+        <edad>30</edad>
+    </medico>
+    <medico id="2">
+        <nombre>Sara</nombre>
+        <apellidos>Perez</apellidos>
+        <edad>23</edad>
+    </medico>
+    <medico id="3">
+        <nombre>Manuel</nombre>
+        <apellidos>Dominguez</apellidos>
+        <edad>32</edad>
+    </medico>
+    <medico id="4">
+        <nombre>Sebastian</nombre>
+        <apellidos>Alvarez</apellidos>
+        <edad>41</edad>
+    </medico>
+    <medico id="5">
+        <nombre>Maria</nombre>
+        <apellidos>Ruiz</apellidos>
+        <edad>23</edad>
+    </medico>
+</hospital>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hospital>
+        
+    <!-- COMENTARIO AÑADIDO DESDE DOM -->
+    <medico id="1">
+        <nombre>Antonio</nombre>
+        <apellidos>García Montes</apellidos>
+        <edad>25</edad>
+    </medico>
+        
+    <!-- COMENTARIO AÑADIDO DESDE DOM -->
+    <medico id="2">
+                
+        <nombre>Sara</nombre>
+                
+        <apellidos>Perez</apellidos>
+                
+        <edad>23</edad>
+            
+    </medico>
+        
+    <!-- COMENTARIO AÑADIDO DESDE DOM -->
+    <medico id="3">
+                
+        <nombre>Manuel</nombre>
+                
+        <apellidos>Dominguez</apellidos>
+                
+        <edad>32</edad>
+            
+    </medico>
+        
+    <!-- COMENTARIO AÑADIDO DESDE DOM -->
+    <medico id="4">
+                
+        <nombre>Sebastian</nombre>
+                
+        <apellidos>Alvarez</apellidos>
+                
+        <edad>41</edad>
+            
+    </medico>
+        
+    <!-- COMENTARIO AÑADIDO DESDE DOM -->
+    <medico id="5">
+                
+        <nombre>Maria</nombre>
+                
+        <apellidos>Ruiz</apellidos>
+                
+        <edad>23</edad>
+            
+    </medico>
+    
+    <medico id="6">
+        <nombre>Alberto</nombre>
+        <apellidos>Martín Martínez</apellidos>
+        <edad>31</edad>
+    </medico>
+</hospital>

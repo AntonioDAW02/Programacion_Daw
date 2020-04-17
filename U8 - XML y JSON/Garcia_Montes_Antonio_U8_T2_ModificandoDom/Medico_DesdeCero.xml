@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hospital>
+    <Medico id="0">
+        <dni>34567667O</dni>
+        <nombre>Antonio</nombre>
+        <apellidos>García Montes</apellidos>
+        <edad>25</edad>
+    </Medico>
+    <Medico id="1">
+        <dni>19457698U</dni>
+        <nombre>Roberto</nombre>
+        <apellidos>Fernandez Sanchez</apellidos>
+        <edad>30</edad>
+    </Medico>
+    <Medico id="2">
+        <dni>45697778S</dni>
+        <nombre>Gustavo</nombre>
+        <apellidos>Martín Gonzalez</apellidos>
+        <edad>40</edad>
+    </Medico>
+    <Medico id="3">
+        <dni>09165847A</dni>
+        <nombre>Oracio</nombre>
+        <apellidos>Salas Salas</apellidos>
+        <edad>39</edad>
+    </Medico>
+    <Medico id="4">
+        <dni>67583023Z</dni>
+        <nombre>Segismundo</nombre>
+        <apellidos>Mendez Sanchez</apellidos>
+        <edad>45</edad>
+    </Medico>
+    <Medico id="5">
+        <dni>34556701X</dni>
+        <nombre>Tony</nombre>
+        <apellidos>Martinez Mendes</apellidos>
+        <edad>33</edad>
+    </Medico>
+    <Medico id="6">
+        <dni>06706113F</dni>
+        <nombre>Nigga</nombre>
+        <apellidos>Gonzalez Montes</apellidos>
+        <edad>45</edad>
+    </Medico>
+    <Medico id="7">
+        <dni>57679998D</dni>
+        <nombre>Trujillo</nombre>
+        <apellidos>Fernandez Montes</apellidos>
+        <edad>25</edad>
+    </Medico>
+    <Medico id="8">
+        <dni>12098909C</dni>
+        <nombre>Paco</nombre>
+        <apellidos>García Salas</apellidos>
+        <edad>55</edad>
+    </Medico>
+    <Medico id="9">
+        <dni>56876789V</dni>
+        <nombre>Dani</nombre>
+        <apellidos>Gonzalez Montes</apellidos>
+        <edad>27</edad>
+    </Medico>
+</hospital>
